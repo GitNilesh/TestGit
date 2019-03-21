@@ -8,6 +8,6 @@ namespace ConsoleApplication2
 {
     class Class1
     {
-        string str = "df";
+        string str = "dfygghhh";
     }
 }
